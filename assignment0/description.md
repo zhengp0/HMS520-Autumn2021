@@ -10,9 +10,10 @@ Please follow the steps below to create the repository and submit a Pull Request
 * Create a GitHub account if you do not have one, preferably using your uw
 email.
 * Create a **private** repository on GitHub with name `HMS520-Autumn2021`.
-* Give me `zhengp0` access to the repository with read and write permission.
+* Give Adrien `aallorant` and me `zhengp0` access to the repository with read
+  and write permission.
 * Either link your local repository or start fresh, commit a `README.md` file to
- the repository.
+  the repository.
 
 ## Submit Pull Request for Assignment 0
 * Create a new branch called `assignment0`.
@@ -30,4 +31,4 @@ If there are useful tips and insights for programming in R, they shall go to the
 
 * Submit a PR from `assignment0` branch to `main` branch, with title
 `Assignment0` and `Describe structure of the repository.` as the description.
-* Add me `zhengp0` as the reviewer.
+* Add Adrien `aallorant` and me `zhengp0` as the reviewers.
