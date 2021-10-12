@@ -12,12 +12,14 @@ In this assignment, we will get familiar with basic R syntax.
 
 
 ## Problem 2 (2 pts): create vectors
-* Create an atomic vector with values 1, 2, ..., 100
-* Use `rep` function creating a vector with all elements to be 10 and length to
+* Create an atomic vector `vec1` with values 1, 2, 3, 4, 5
+* Use `rep` function creating a vector `vec2` with all elements to be 10 and length to
   be 100
-* Use `rep` function repeat vector `c(1, 2, 3, 4, 5)` twice into `c(1, 2, 3, 4, 5, 1, 2, 3, 4, 5)`
-* Use `rep` function repeat vector `c(1, 2, 3, 4, 5)` twice into `c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5)`
-* Use `seq` function create an atomic vector with elements 0, 0.01, 0.02, ..., 1
+* Repeat vector `vec1` twice into `c(1, 2, 3, 4, 5, 1, 2, 3, 4, 5)` and assign
+  it to variable `vec3` (use function `rep`)
+* Repeat vector `vec1` twice into `c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5)` and assign
+  it to variable `vec4` (use function `rep`)
+* Use `seq` function create an atomic vector `vec5` with elements 0, 0.01, 0.02, ..., 1
 
 
 ## Problem 3 (2 pts): vector operations
