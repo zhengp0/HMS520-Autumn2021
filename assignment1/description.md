@@ -8,7 +8,7 @@ In this assignment, we will get familiar with basic R syntax.
 * Assign your name to the variable `my_name`
 * Assign the maximum number of push ups you can do to the variable `num_push_ups`
 * Create a boolean variable `need_exercise` to be TRUE if `num_push_ups` is
-  greater than 5 else FALSE
+  lower than 5 else FALSE
 
 
 ## Problem 2 (2 pts): create vectors
